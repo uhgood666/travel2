@@ -16,6 +16,5 @@ https://metanit.com/sql/sqlserver/1.2.php,
 https://winitpro.ru/index.php/2020/01/15/guide-ustanovka-ms-sql-server-best-practices/
 4. После установки программных обеспечений, можно приступать к добавлению существующей базы данных в MS SQL Server.
 Все действия будут также предствленны в следующей ссылке:
-https://info-comp.ru/sisadminst/494-detaching-and-attaching-databases-in-sql-server.html
-5. После этого можно открывать проект в вижуал студио. Запуск проводится или из установочного файла или из самой программы Visual Studio при нажатии на кнопку "Открыть локальную папку" и выбрать от туда наш проект.
-6. После этого можно запустить наш проект и проверить его работу.
+https://info-comp.ru/sisadminst/494-detaching-and-attaching-databases-in-sql-server.
+5. После этого можно запустить наш проект и проверить его работу.
